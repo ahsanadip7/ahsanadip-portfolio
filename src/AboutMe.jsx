@@ -17,7 +17,7 @@ const AboutMe = () => {
                 <p>
                   My journey in programming started in 2022 when I first encountered HTML and CSS. I was captivated by how
                   websites come to life with just a few lines of code. From there, I moved on to learning JavaScript, which
-                  opened up a whole new world of dynamic, interactive web development. Over time, I dived into React, Tailwind CSS,
+                  opened up a new world of dynamic, interactive web development. Over time, I dived into React, Tailwind CSS,
                   and other modern front-end tools, which I now use to build responsive, user-friendly web applications.
                   My passion for coding continues to grow as I solve new challenges and build meaningful projects.
                 </p>
